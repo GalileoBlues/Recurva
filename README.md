@@ -3,6 +3,7 @@
 
 ![Recurva](https://github.com/GalileoBlues/Recurva/assets/105921721/1c8f800d-16a2-4db7-8ce3-bbcf380b9e93)
 
+Recurva's name originates from the Eucalyptus Recurva, a critically endangered species endemic to only a tiny section of New South Wales, Australia.
 
 The goal with Recurva was to solely focus on the rudimentary statistics that I personally feel are the most important in layout design to achieve the best stats that would still be usable. The main stats I considered were:
 - Same Finger Bigrams - SFBs (two letters pressed in a row with the same finger).
