@@ -23,7 +23,7 @@ xkb_symbols "basic" {
    key <AD04>     {[      p,  P     ]};
    key <AD05>     {[      v,  V     ]};
    key <AD06>     {[      q,  Q     ]};
-   key <AD07>     {[      m,  M     ]};
+   key <AD07>     {[      j,  J     ]};
    key <AD08>     {[      u,  U     ]};
    key <AD09>     {[      o,  O     ]};
    key <AD10>     {[      y,  Y     ]};
@@ -45,7 +45,7 @@ xkb_symbols "basic" {
    key <AB03>     {[      k,  K     ]};
    key <AB04>     {[      g,  G     ]};
    key <AB05>     {[      w,  W     ]};
-   key <AB06>     {[      j,  J     ]};
+   key <AB06>     {[      m,  M     ]};
    key <AB07>     {[      l,  L     ]};
    key <AB08>     {[      semicolon,  colon     ]};
    key <AB09>     {[      apostrophe,  quotedbl     ]};
