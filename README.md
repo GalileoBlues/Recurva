@@ -223,7 +223,7 @@ Total Redirects:   5.146%      Total Redirects:   7.309%
 
 ```
 
-Ultimately all of these are archival layouts as Recurva accomplishes what they didn't, some of these layouts come close to Semimak's stats but none exceed it's superb stats.
+Ultimately all of these are archival layouts as Recurva accomplishes what they didn't, some of these layouts come close to Semimak's stats but none exceed its superb stats.
 
 3 months later (July) and curious once again about the composition I tried it again but in conjunction with Whorf style vowels.
 
@@ -248,7 +248,7 @@ Total Redirects: 5.854%
 
 Pycnantha's goal was to lower scissors coming from Whorf and to emulate features I favour from Oxey's Sturdy - https://o-x-e-y.github.io/layouts/sturdy/index.html while keeping the stats very close to Whorf. Pycnantha is only a few swaps from Recurva but it would be 2 months before I discovered it as I was hesitant to try Semimak style vowels again and assumed I could not achieve a better result.
 
-The modification into Recurva is quite simple, in this composition `K` creates SFBs with the `H` index that cannot be avoided because the only other place `K` can go is with `T` which already has two letters in it's column, the prime candidate to place elsewhere is `B` because it's stats when paired in `C` indexes are very good but the issue is that that column is full and no other exchanges can take place.
+The modification into Recurva is quite simple, in this composition `K` creates SFBs with the `H` index that cannot be avoided because the only other place `K` can go is with `T` which already has two letters in its column, the prime candidate to place elsewhere is `B` because its stats when paired in `C` indexes are very good but the issue is that that column is full and no other exchanges can take place.
 
 Recurva only works because it removes the Letter `Y` from the `C` index and allows to you swap `B` into the `C` index and thus place the `K` into the `T` column.
 
