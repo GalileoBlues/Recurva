@@ -1,7 +1,8 @@
 ## Recurva
 ### An alternate keyboard layout focused on efficiency
 
-![Recurva](https://github.com/GalileoBlues/Recurva/assets/105921721/1c8f800d-16a2-4db7-8ce3-bbcf380b9e93)
+![recurva](https://github.com/GalileoBlues/Recurva/assets/105921721/68b5ea2f-6a14-4fe3-82cc-ad4bda2861e5)
+
 
 Recurva's name originates from the Eucalyptus Recurva, a critically endangered species endemic to only a tiny section of New South Wales, Australia.
 
