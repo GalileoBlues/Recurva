@@ -33,7 +33,7 @@ All statistics presented here use Shai corpus unless specified.
 
 Looking at these stats you could conclude that HL is better than RL but as mentioned before compositionally this is rarely true because R is much more un-agreeable as a letter in comparison with H. R's most common partners that make sense from as SFB standpoint create a lot of SFS unfortunately which means it often gets put by itself on the pinky homerow or in combination with RL.
 
-Why is this important? because L is just as un-agreeable as R and also causes trouble for the composition, it has the highest number of repeats of any letter (ll: 0.713%) and only goes with the letters i've shown above and the letter M (SFBs: ml + lm: 0.028%, SFS: ml + lm: 0.298%)
+Why is this important? because L is just as un-agreeable as R and also causes trouble for the composition, it has the highest number of repeats of any letter (ll: 0.713%) and only goes with the letters I've shown above and the letter M (SFBs: ml + lm: 0.028%, SFS: ml + lm: 0.298%)
 
 ## Analysis of Whorf and Semimak
 
@@ -162,7 +162,7 @@ There won't be any downloads for these variations as it's pretty much assumed th
 
 Recurva was found accidently while exploring different composition's on Oxey's Layout Playground - an interactive website that allows you to swap letters in a layout and see the result in real time - https://o-x-e-y.github.io/layouts/playground/index.html.
 
-I had been trying to make `RN, LHM` as a composition work since the start of 2023 in january after I completed Gallium, Richard Davidson (https://github.com/rdavison creator of Graphite) and I collaborated on a layout that used `R` on the pinky and `LHM` after I commented on how technically `HL` was better to `RL` in isolation, that layout resulted in Ruthenium which doesn't really accomplish anything significant other than existing as a somewhat new combination and some decent stats. Although I didn't look at it again until recently, it bears a striking resemblance to Recurva in a few ways and definitely reinforced the idea
+I had been trying to make `RN, LHM` as a composition work since the start of 2023 in january after I completed Gallium, Richard Davison (https://github.com/rdavison creator of Graphite) and I collaborated on a layout that used `R` on the pinky and `LHM` after I commented on how technically `HL` was better to `RL` in isolation, that layout resulted in Ruthenium which doesn't really accomplish anything significant other than existing as a somewhat new combination and some decent stats. Although I didn't look at it again until recently, it bears a striking resemblance to Recurva in a few ways and definitely reinforced the idea
 
 ```
 ruthenium
@@ -185,7 +185,7 @@ Total Redirects: 4.799%
 
 After Ruthenium I experimented many times with `LHM` as a column. I partially wanted to try `RN` as a replacement to `RL, HNB` as it made the most sense when mutating those columns but also because I admired the structure of Clemenpine's Pine layout - https://github.com/ClemenPine/pine-layout which exhibits `RN` on the left middle finger. To my knowledge the first layout to actually use `RN` and `LHM` together was Halmak.
 
-After a couple months of sporadically trying the combination, in March I got inspired to experiment with the combination while trying semimak vowels at the same time.
+After a couple months of sporadically trying the combination, in March I got inspired to experiment with the combination while trying Semimak vowels at the same time.
 
 ```
 tungsten                       argon
